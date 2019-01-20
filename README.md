@@ -1,4 +1,6 @@
 # Raspberry Pi 3 B+ Case with Touchscreen
+![](https://img.shields.io/github/last-commit/mkellsy/rpi-case-model.svg?colorB=%23999999&label=updated&logo=github&logoColor=%2364b5f6&style=popout-square)
+
 3D source files for the honeycomb Raspberry Pi case and matching touchscreen case.
 
 > This is remixed from 0110-M-P's design on Thingverse, however it is not compatible with it. This has a different bolt pattern.
