@@ -23,6 +23,9 @@ Special version for the official Raspberry Pi touchscreen. Wihch also includes m
 
 There also is a retainer bracket that can hold the board without using screws inside the case. This bracket does cover the ribbon slots, so it is best used with the default or blank tops. This is not needed fpr the touchscreen because the motherboard attaches to the back of the screen.
 
+### 1/20/2019 Update.
+- Since #4-40 screws are hard to find, I changed the bolt pattern to accomidate #6-32 screws
+
 ### 1/19/2019 Update.
 - Changed the honeycomb pattern, it is much cleaner now.
 - Added a retainer that holds the board inside the case without screws.
@@ -45,11 +48,24 @@ There also is a retainer bracket that can hold the board without using screws in
 - Increased the thickness of the legs to better fit #4-40 x 3/8 screws without contacting the back of the screen.
 
 ### To assemble the case you will need;
-- 4 x #4-40 x 1/4 socket head cap screws
-- 4 x #4-40 x 1/2 socket head cap screws
+- 4 x #4-40 x 1/4 socket head cap screws (If you don't use the retainer bracket)
+  Used to attach the Raspberry Pi to the base.
+
+- 4 x #6-32 x 3/4 socket head cap screws
+  Used to attach the top to the base.
+
+  > The screws will self tap, but it you have a #6-32 tap it is recommended to tab the mount holes on the base.
 
 ### To assemble the touchscreen case you will need;
-- 8 x #4-40 x 3/8 socket head cap screws
-- 4 x #4-40 x 3/4 socket head cap screws
+- 4 x #4-40 x 3/8 socket head cap screws
+  Used to attach the legs and the back to the screen. 
 
-> The threads on the screen are M3, however #4-40 will work but might alter the threads. I used #4-40 screws because they are easier to find.
+  > The threads on the screen are M3, however #4-40 will work but might alter the threads. I used #4-40 screws because they are easier to find.
+
+- 4 x #6-32 x 1/2 socket head cap screws
+  Used to attach the frame to the back.
+
+- 4 x #4-32 x 1 socket head cap screws
+  Used to attach the cover to the back.
+  
+  > The screws will self tap, but it you have a #6-32 tap it is recommended to tab the mount holes on the base.
