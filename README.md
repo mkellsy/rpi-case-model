@@ -1,4 +1,6 @@
 # Raspberry Pi 3 B+ Case with Touchscreen
+![](https://img.shields.io/github/last-commit/mkellsy/rpi-case-model.svg?colorB=%23999999&label=updated&logo=github&logoColor=%2364b5f6&style=popout-square)
+
 3D source files for the honeycomb Raspberry Pi case and matching touchscreen case.
 
 > This is remixed from 0110-M-P's design on Thingverse, however it is not compatible with it. This has a different bolt pattern.
@@ -24,7 +26,8 @@ Special version for the official Raspberry Pi touchscreen. Wihch also includes m
 There also is a retainer bracket that can hold the board without using screws inside the case. This bracket does cover the ribbon slots, so it is best used with the default or blank tops. This is not needed fpr the touchscreen because the motherboard attaches to the back of the screen.
 
 ### 1/20/2019 Update.
-- Since #4-40 screws are hard to find, I changed the bolt pattern to accommodate #6-32 screws
+- Since #4-40 screws are hard to find, I changed the bolt pattern to accommodate #6-32 screws.
+- Added support backing for the frame screws.
 - Added material behind the frame mounts.
 - Added 4 frame mount points to better compress the screen.
 
