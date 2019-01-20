@@ -25,6 +25,8 @@ There also is a retainer bracket that can hold the board without using screws in
 
 ### 1/20/2019 Update.
 - Since #4-40 screws are hard to find, I changed the bolt pattern to accommodate #6-32 screws
+- Added material behind the frame mounts.
+- Added 4 frame mount points to better compress the screen.
 
 ### 1/19/2019 Update.
 - Changed the honeycomb pattern, it is much cleaner now.
