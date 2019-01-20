@@ -1,6 +1,8 @@
 # Raspberry Pi 3 B+ Case with Touchscreen
 3D source files for the honeycomb Raspberry Pi case and matching touchscreen case.
 
+> This is remixed from 0110-M-P's design on Thingverse, however it is not compatible with it. This has a different bolt pattern.
+
 This includes multiple mount configurations;
 - 75 mm VESA mounts
 - 100 mm VESA mounts
@@ -51,5 +53,3 @@ There also is a retainer bracket that can hold the board without using screws in
 - 4 x #4-40 x 3/4 socket head cap screws
 
 > The threads on the screen are M3, however #4-40 will work but might alter the threads. I used #4-40 screws because they are easier to find.
-
-> This is remixed from 0110-M-P's design on Thingverse, however it is not compatible with it. This has a different bolt pattern.
