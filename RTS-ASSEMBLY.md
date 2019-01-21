@@ -49,7 +49,7 @@ Attach the Raspberry Pi 3 B+ to the screen.
 2. Insert the red wire on pin 1 of the header on the Raspberry Pi.
 3. Insert the black wire on pin 3 of the header on the Raspberry Pi.
 4. Place the Raspberry Pi on the raisers from step 1, while doing this allign the tabs on the USB ports to the USB openings on the RTS-BACK.
-5. Secure the Raspberry Pi to the screen using the supplier screws with the touchscreen.
+5. Secure the Raspberry Pi to the screen using the supplied screws with the touchscreen.
 
 ## Step 5
 Attach the RTS-COVER.
