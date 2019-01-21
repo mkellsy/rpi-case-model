@@ -30,6 +30,7 @@ There also is a retainer bracket that can hold the board without using screws in
 - Added support backing for the frame screws.
 - Added material behind the frame mounts.
 - Added 4 frame mount points to better compress the screen.
+- Changed leg geometry to clear the new frame mounts.
 
 ### 1/19/2019 Update.
 - Changed the honeycomb pattern, it is much cleaner now.
