@@ -5,7 +5,7 @@ This guide will walk you through assembling the touchscreen case. All of the too
 
 ## Required Tools and Hardware
 - A #6-32 tap.
-- 7/64 and 3/32 hex wrenchs.
+- 7/64 and 3/32 hex wrench.
 - 4 x #4-40 x 3/8 stainless socket head cap screws.
 - 8 x #6-32 x 1/2 stainless socket head cap screws.
 - 4 x #6-32 x 1 stainless socket head cap screws.
