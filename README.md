@@ -5,6 +5,13 @@
 
 > This is remixed from 0110-M-P's design on Thingverse, however it is not compatible with it. This has a different bolt pattern.
 
+### Compatibility
+- Raspberry Pi 3 Model B+
+- Raspberry Pi 3 Model B
+- Raspberry Pi 2 Model B
+- Raspberry Pi 1 Model B+
+
+### Configurations
 This includes multiple mount configurations;
 - 75 mm VESA mounts
 - 100 mm VESA mounts
@@ -17,13 +24,42 @@ Also included are multiple top configurations;
 - 25 mm and 30 mm fan cutouts
 - Clean version (great for modding and remixing)
 
-Special version for the official Raspberry Pi touchscreen. Wihch also includes multiple configurations;
+Special configuration for the official Raspberry Pi touchscreen. Wihch also includes multiple configurations;
 - Standard
 - Slotted for a camera ribbon
 - 25 mm and 30 mm fan cutouts
 - Clean version (great for modding and remixing)
 
+### Features
 There also is a retainer bracket that can hold the board without using screws inside the case. This bracket does cover the ribbon slots, so it is best used with the default or blank tops. This is not needed fpr the touchscreen because the motherboard attaches to the back of the screen.
+
+### Assembly
+To assemble the case you will need;
+- 4 x #4-40 x 1/4 socket head cap screws (If you don't use the retainer bracket)
+  Used to attach the Raspberry Pi to the base.
+
+- 4 x #6-32 x 3/4 socket head cap screws
+  Used to attach the top to the base.
+
+  > The screws will self tap, but it you have a #6-32 tap it is recommended to tab the mount holes on the base.
+
+More detailed instructions can be found here. [Assembly Instructions](https://github.com/mkellsy/rpi-case-model/blob/master/RPI-ASSEMBLY.md).
+
+To assemble the touchscreen case you will need;
+- 4 x #4-40 x 3/8 socket head cap screws
+  Used to attach the legs and the back to the screen. 
+
+  > The threads on the screen are M3, however #4-40 will work but might alter the threads. I used #4-40 screws because they are easier to find.
+
+- 4 x #6-32 x 1/2 socket head cap screws
+  Used to attach the frame to the back.
+
+- 4 x #4-32 x 1 socket head cap screws
+  Used to attach the cover to the back.
+  
+  > The screws will self tap, but it you have a #6-32 tap it is recommended to tab the mount holes on the base.
+
+More detailed instructions can be found here. [Assembly Instructions](https://github.com/mkellsy/rpi-case-model/blob/master/RTS-ASSEMBLY.md).
 
 ### 1/21/2019 Update.
 - Added slotted, 25 mm fan and 30 mm fan tops without the honeycomb.
@@ -55,26 +91,3 @@ There also is a retainer bracket that can hold the board without using screws in
 - Added a 100 mm VESA mount base.
 - Combined the left and right legs into one STL file.
 - Increased the thickness of the legs to better fit #4-40 x 3/8 screws without contacting the back of the screen.
-
-### To assemble the case you will need;
-- 4 x #4-40 x 1/4 socket head cap screws (If you don't use the retainer bracket)
-  Used to attach the Raspberry Pi to the base.
-
-- 4 x #6-32 x 3/4 socket head cap screws
-  Used to attach the top to the base.
-
-  > The screws will self tap, but it you have a #6-32 tap it is recommended to tab the mount holes on the base.
-
-### To assemble the touchscreen case you will need;
-- 4 x #4-40 x 3/8 socket head cap screws
-  Used to attach the legs and the back to the screen. 
-
-  > The threads on the screen are M3, however #4-40 will work but might alter the threads. I used #4-40 screws because they are easier to find.
-
-- 4 x #6-32 x 1/2 socket head cap screws
-  Used to attach the frame to the back.
-
-- 4 x #4-32 x 1 socket head cap screws
-  Used to attach the cover to the back.
-  
-  > The screws will self tap, but it you have a #6-32 tap it is recommended to tab the mount holes on the base.
