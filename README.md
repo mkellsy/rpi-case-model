@@ -25,6 +25,9 @@ Special version for the official Raspberry Pi touchscreen. Wihch also includes m
 
 There also is a retainer bracket that can hold the board without using screws inside the case. This bracket does cover the ribbon slots, so it is best used with the default or blank tops. This is not needed fpr the touchscreen because the motherboard attaches to the back of the screen.
 
+### 1/21/2019 Update.
+- Added slotted, 25 mm fan and 30 mm fan tops without the honeycomb.
+
 ### 1/20/2019 Update.
 - Since #4-40 screws are hard to find, I changed the bolt pattern to accommodate #6-32 screws.
 - Added support backing for the frame screws.
