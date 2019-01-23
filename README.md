@@ -65,22 +65,22 @@ More detailed instructions can be found here. [Assembly Instructions](https://gi
 
 ## Updates
 
-### 1/21/2019 Update.
+#### 1/21/2019 Update.
 - Added slotted, 25 mm fan and 30 mm fan tops without the honeycomb.
 
-### 1/20/2019 Update.
+#### 1/20/2019 Update.
 - Since #4-40 screws are hard to find, I changed the bolt pattern to accommodate #6-32 screws.
 - Added support backing for the frame screws.
 - Added material behind the frame mounts.
 - Added 4 frame mount points to better compress the screen.
 - Changed leg geometry to clear the new frame mounts.
 
-### 1/19/2019 Update.
+#### 1/19/2019 Update.
 - Changed the honeycomb pattern, it is much cleaner now.
 - Added a retainer that holds the board inside the case without screws.
 - Lengthened the touchscreen legs to accommodate larger USB power cables.
 
-### 1/18/2019 Update.
+#### 1/18/2019 Update.
 - Rotated the STL files to lay flat on the print bed. (SolidWorks has a different orientation)
 - Added a 8020 mount base.
 - Added a slotted top for display and camera ribbons.
@@ -90,7 +90,7 @@ More detailed instructions can be found here. [Assembly Instructions](https://gi
 - Added a 25 mm and a 30 mm fan back cover.
 - Added a blank back cover.
 
-### 1/17/2019 Update.
+#### 1/17/2019 Update.
 - Added a no mount base.
 - Added a 100 mm VESA mount base.
 - Combined the left and right legs into one STL file.
