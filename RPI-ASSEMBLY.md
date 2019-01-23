@@ -1,5 +1,5 @@
 # Raspberry Pi Case Assembly Instructions
-This guide will walk you through assembling the touchscreen case. All of the tools and hardware should be available on Amazon or at Home Depot or Ace Hardware.
+This guide will walk you through assembling the Raspberry Pi case. All of the tools and hardware should be available on Amazon, Home Depot or Ace Hardware.
 
 ![](https://github.com/mkellsy/rpi-case-model/raw/master/DIAGRAMS/RPI-ASSEMBLY.PNG)
 
