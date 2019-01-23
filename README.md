@@ -3,7 +3,7 @@
 
 3D source files for the honeycomb Raspberry Pi case and matching touchscreen case.
 
-![](https://github.com/mkellsy/rpi-case-model/raw/master/RENDERINGS/RTS-EXPLODED.PNG)
+![](https://github.com/mkellsy/rpi-case-model/raw/master/README.PNG)
 
 > This is remixed from 0110-M-P's design on Thingverse, however it is not compatible with it. This has a different bolt pattern.
 
