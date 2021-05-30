@@ -6,7 +6,7 @@ This guide will walk you through assembling the Raspberry Pi case. All of the to
 ## Required Tools and Hardware
 - A #6-32 tap.
 - 7/64 and 3/32 hex wrench.
-- 4 x #4-40 x 1/4 stainless socket head cap screws.
+- 4 x #4-40 x 1/4 stainless socket head cap screws. (RPI 3 version only)
 - 4 x #6-32 x 3/4 stainless socket head cap screws.
 
 ## Tapping
@@ -21,7 +21,7 @@ Attach the Raspberry Pi to the RPI-BOTTOM.
 ![](https://github.com/mkellsy/rpi-case-model/raw/master/DIAGRAMS/RPI-STEP-1.PNG)
 
 1. Allign the board to the 4 raisers on the RPI-BOTTOM.
-2. Attach using 4 #4-40 x 1/4 stainless socket head cap screws.
+2. Attach using 4 #4-40 x 1/4 stainless socket head cap screws. (RPI 3 version only)
 
   > #4-40 taps are hard to find. These screws will need to be self tapped.
 
@@ -33,10 +33,12 @@ Attach the RPI-TOP.
 1. Allign the top with the four mount points on the RPI-BOTTOM.
 2. Secure the RPI-TOP with 4 #6-32 x 3/4 stainless socket head cap screws.
 
-## Assembly, Screwless Version
+## Assembly, Screwless Version (RPI 3 Version Only)
 If you do not want to secure the Raspberry Pi into the case using screws, you can use the retainer and not use the screws.
 
 ![](https://github.com/mkellsy/rpi-case-model/raw/master/DIAGRAMS/RPI-SCREWLESS-ASSEMBLY.PNG)
+
+> The RPI 4 version has the retainer built into the top.
 
 ### Step 1
 Position the Raspberry Pi and the RPI-RETAINER in the RPI-BOTTOM.
