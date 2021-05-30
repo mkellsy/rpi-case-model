@@ -6,7 +6,7 @@ This guide will walk you through assembling the Raspberry Pi case. All of the to
 ## Required Tools and Hardware
 - A #6-32 tap.
 - 7/64 and 3/32 hex wrench.
-- 4 x #4-40 x 1/4 stainless socket head cap screws. (RPI 3 version only)
+- 4 x #4-40 x 1/4 stainless socket head cap screws. (RPI 3 Version Only)
 - 4 x #6-32 x 3/4 stainless socket head cap screws.
 
 ## Tapping
@@ -21,7 +21,7 @@ Attach the Raspberry Pi to the RPI-BOTTOM.
 ![](https://github.com/mkellsy/rpi-case-model/raw/master/DIAGRAMS/RPI-STEP-1.PNG)
 
 1. Allign the board to the 4 raisers on the RPI-BOTTOM.
-2. Attach using 4 #4-40 x 1/4 stainless socket head cap screws. (RPI 3 version only)
+2. Attach using 4 #4-40 x 1/4 stainless socket head cap screws. (RPI 3 Version Only)
 
   > #4-40 taps are hard to find. These screws will need to be self tapped.
 
