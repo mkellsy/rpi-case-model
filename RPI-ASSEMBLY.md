@@ -9,6 +9,8 @@ This guide will walk you through assembling the Raspberry Pi case. All of the to
 - 4 x #4-40 x 1/4 stainless socket head cap screws. (RPI 3 Version Only)
 - 4 x #6-32 x 3/4 stainless socket head cap screws.
 
+> M3 screws will work too. Imperial threads are listed because they are easier to find in the U.S.
+
 ## Tapping
 First you will need to tap the holes on the RPI-BOTTOM. Tapping is not required as the screws are harder than the plastic. However tapping will create a more consistant thread, as tapping removes material vs. compressing it.
 
